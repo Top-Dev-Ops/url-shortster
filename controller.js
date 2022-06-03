@@ -65,7 +65,7 @@ exports.submit = (req, res) => {
     }
   }
   fs.writeFileSync('db.json', JSON.stringify(data))
-  return res.status(200).send('Successfully submitted urls.')
+  return res.status(200).send(data[email])
 }
 
 exports.redirect = (req, res) => {
@@ -113,4 +113,17 @@ exports.stats = (req, res) => {
     return res.status(500).send(`No short url ${shortUrl} found.`)
   }
   return res.send(result)
+}
+
+exports._delete = (req, res) => {
+  const { email, shortUrl } = req.body
+  let data = JSON.parse(fs.readFileSync('db.json'))
+  if (data[email]) {
+    data = {
+      ...data,
+      [email]: data[email].filter(dat => dat.shortUrl !== shortUrl)
+    }
+    fs.writeFileSync('db.json', JSON.stringify(data))
+  }
+  return res.send('Successfully deleted urls.')
 }
