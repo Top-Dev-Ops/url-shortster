@@ -1,0 +1,34 @@
+{
+  "benjaminminato0415@gmail.com": [
+    {
+      "shortUrl": "918f2f",
+      "longUrl": "https://google.com",
+      "createdAt": "2022-06-03T06:55:37.696Z",
+      "visitedAt": "2022-06-03T06:55:37.696Z",
+      "visited": 0
+    },
+    {
+      "shortUrl": "6edd4c",
+      "longUrl": "https://youtube.com",
+      "createdAt": "2022-06-03T06:57:12.120Z",
+      "visitedAt": "2022-06-03T12:55:48.608Z",
+      "visited": 0
+    }
+  ],
+  "benjamin.minato.geek@gmail.com": [
+    {
+      "shortUrl": "c62e01",
+      "longUrl": "https://youtube.com",
+      "createdAt": "2022-06-03T12:57:47.277Z",
+      "visitedAt": "2022-06-03T12:57:47.277Z",
+      "visited": 0
+    },
+    {
+      "shortUrl": "stackoverflow.com",
+      "longUrl": "https://stackoverflow.com",
+      "createdAt": "2022-06-03T12:58:23.882Z",
+      "visitedAt": "2022-06-03T13:01:17.045Z",
+      "visited": 2
+    }
+  ]
+}
