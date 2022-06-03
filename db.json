@@ -1,1 +1,50 @@
-{"benjaminminato0415@gmail.com":[{"shortUrl":"918f2f","longUrl":"https://google.com","createdAt":"2022-06-03T06:55:37.696Z","visitedAt":"2022-06-03T06:55:37.696Z","visited":0},{"shortUrl":"6edd4c","longUrl":"https://youtube.com","createdAt":"2022-06-03T06:57:12.120Z","visitedAt":"2022-06-03T12:55:48.608Z","visited":0}],"benjamin.minato.geek@gmail.com":[{"shortUrl":"c62e01","longUrl":"https://youtube.com","createdAt":"2022-06-03T12:57:47.277Z","visitedAt":"2022-06-03T14:22:36.385Z","visited":16},{"shortUrl":"stackoverflow.com","longUrl":"https://stackoverflow.com","createdAt":"2022-06-03T12:58:23.882Z","visitedAt":"2022-06-03T13:40:23.558Z","visited":3},{"shortUrl":"google","longUrl":"https://google.com","createdAt":"2022-06-03T14:27:27.999Z","visitedAt":"2022-06-03T14:27:27.999Z","visited":0}],"aaa@aaa.aaa":[{"shortUrl":"aaaaaaa","longUrl":"https://aaaaaa.aaaaaaa.aaaaaaa","createdAt":"2022-06-03T15:29:12.105Z","visitedAt":"2022-06-03T15:29:12.105Z","visited":0}]}
+{
+  "benjaminminato0415@gmail.com": [
+    {
+      "shortUrl": "918f2f",
+      "longUrl": "https://google.com",
+      "createdAt": "2022-06-03T06:55:37.696Z",
+      "visitedAt": "2022-06-03T06:55:37.696Z",
+      "visited": 0
+    },
+    {
+      "shortUrl": "6edd4c",
+      "longUrl": "https://youtube.com",
+      "createdAt": "2022-06-03T06:57:12.120Z",
+      "visitedAt": "2022-06-03T12:55:48.608Z",
+      "visited": 0
+    }
+  ],
+  "benjamin.minato.geek@gmail.com": [
+    {
+      "shortUrl": "c62e01",
+      "longUrl": "https://youtube.com",
+      "createdAt": "2022-06-03T12:57:47.277Z",
+      "visitedAt": "2022-06-03T14:22:36.385Z",
+      "visited": 16
+    },
+    {
+      "shortUrl": "stackoverflow.com",
+      "longUrl": "https://stackoverflow.com",
+      "createdAt": "2022-06-03T12:58:23.882Z",
+      "visitedAt": "2022-06-03T13:40:23.558Z",
+      "visited": 3
+    },
+    {
+      "shortUrl": "google",
+      "longUrl": "https://google.com",
+      "createdAt": "2022-06-03T14:27:27.999Z",
+      "visitedAt": "2022-06-03T14:27:27.999Z",
+      "visited": 0
+    }
+  ],
+  "aaa@aaa.aaa": [
+    {
+      "shortUrl": "aaaaaaa",
+      "longUrl": "https://aaaaaa.aaaaaaa.aaaaaaa",
+      "createdAt": "2022-06-03T15:29:12.105Z",
+      "visitedAt": "2022-06-03T15:29:12.105Z",
+      "visited": 0
+    }
+  ]
+}
